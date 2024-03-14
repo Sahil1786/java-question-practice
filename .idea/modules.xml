@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java.java/Java.java.iml" filepath="$PROJECT_DIR$/Java.java/Java.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linklist/Linklist.iml" filepath="$PROJECT_DIR$/Linklist/Linklist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathForDsa2/MathForDsa2.iml" filepath="$PROJECT_DIR$/MathForDsa2/MathForDsa2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PattrnPrinting/PattrnPrinting.iml" filepath="$PROJECT_DIR$/PattrnPrinting/PattrnPrinting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion_Level-1/Recursion_Level-1.iml" filepath="$PROJECT_DIR$/Recursion_Level-1/Recursion_Level-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shorting/Shorting.iml" filepath="$PROJECT_DIR$/Shorting/Shorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeComplecity/TimeComplecity.iml" filepath="$PROJECT_DIR$/TimeComplecity/TimeComplecity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion_Level-1/arrays/arrays.iml" filepath="$PROJECT_DIR$/Recursion_Level-1/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/code.iml" filepath="$PROJECT_DIR$/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java program.iml" filepath="$PROJECT_DIR$/.idea/java program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>
